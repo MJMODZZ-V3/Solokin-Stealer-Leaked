@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SolokinV2\SolokinV2\bin\Debug\SolokinV2.exe.config
+C:\Users\User\source\repos\SolokinV2\SolokinV2\bin\Debug\SolokinV2.exe
+C:\Users\User\source\repos\SolokinV2\SolokinV2\bin\Debug\SolokinV2.pdb
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.Properties.Resources.resources
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.Start.resources
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.exe
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.pdb
+C:\Users\User\source\repos\SolokinV2\SolokinV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\SolokinV2\SolokinV2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.csproj.CopyComplete
+C:\Users\User\source\repos\SolokinV2\SolokinV2\obj\Debug\SolokinV2.csproj.AssemblyReference.cache
